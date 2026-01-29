@@ -4,5 +4,5 @@
 
 *Matricula*: A25216550
 
-*Correo_electronico*: Josephfariddorantestec@gamil.com
+*Correo_electronico*: Josephfariddorantestec@gmail.com
 
